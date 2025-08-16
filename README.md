@@ -1,5 +1,7 @@
 # EchoScribe
 
+# Final Year Project
+
 A powerful tool that takes an audio recording as input, converts it to text using speech-to-text technology, and generates a concise summary of the transcript.  
 You have the choice of either uploading pre-recorded audio files or to click on the Record Now button and start recording.
 
