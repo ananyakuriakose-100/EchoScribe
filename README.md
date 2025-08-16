@@ -34,10 +34,14 @@ Example from screenshot → only mentions friends reunion, pottery class, Japan 
 ![WhatsApp Image 2025-03-31 at 22 00 12 (5)](https://github.com/user-attachments/assets/dda1e1ec-6897-4f82-b221-bc5263b6b9be)
 
 # Authors
-Ananth Arul
-Ananya Kuriakose
-Eric Mathew
-Richard Xavier Pious
+Ananth Arul  
+
+Ananya Kuriakose  
+
+Eric Mathew  
+
+Richard Xavier Pious  
+
 
 
 
