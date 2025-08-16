@@ -13,7 +13,7 @@ This feature allows you to upload the audio file in the correct format, after up
 2.) Text Summarization
 Here it would generate two generate types of summaries Executive summary and Brief summary.  
 
-Executive Summary  
+Executive Summary - 
 
 Detailed but concise: Captures the full context of the conversation.  
 
@@ -21,7 +21,7 @@ Includes key points, background, highlights, and sometimes interpretation or imp
 
 Example from screenshot → mentions trip to Japan, pottery class, yoga, importance of gatherings, friendships, hobbies in detail.  
 
-Brief Summary  
+Brief Summary -
 
 Very concise: Focuses only on the core highlights.  
 
